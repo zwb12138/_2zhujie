@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="_2zhujie:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>_2zhujie</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="_2zhujie-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="_2zhujie:war exploded" />
+    </root>
+  </artifact>
+</component>
